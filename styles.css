@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root, html {
+
+}
+
+body {
+
+}
+
+tr {
+    /* width: 50%;
+    margin: auto; */
+    text-align: center;
+}
